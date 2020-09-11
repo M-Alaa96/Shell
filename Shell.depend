@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1476217607 source:/home/rewan/Desktop/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1476275931 source:/tmp/guest-pnm96x/Desktop/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+
+1476514224 source:g:\rewan\À«·À…\«Ì„«‰\lab1_23\shell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1476514224 source:c:\users\rs\desktop\clg\7th term\operating system\labs\lab1\shell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<sys/wait.h>
+
